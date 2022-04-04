@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- soubor data.xml - uloženo do nové složky v PortableGit -->
+<zaznamy>
+  <mereni id="001">
+    <teplota>7.6</teplota>
+  </mereni>
+  <mereni id="002">
+    <teplota>8.1</teplota>
+  </mereni>
+</zaznamy>
