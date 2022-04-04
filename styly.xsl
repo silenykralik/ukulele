@@ -5,6 +5,12 @@
       <head><title>Testujeme</title></head>
       <body>
         <h2>Test XLS a Git</h2>
+        <table>
+          <tr><td>teplota</td></tr>
+          <tr><td>
+            <xsl:value-of select="zaznamy/mereni/teplota" />
+          </td></tr>
+        </table>
       </body>
     </html>
   </xsl:template>
